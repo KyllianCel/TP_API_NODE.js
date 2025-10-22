@@ -12,7 +12,7 @@ Le serveur est construit avec Node.js, Express, utilise TypeScript pour le typag
 
 * **Node.js** : Environnement d'exécution JavaScript.
 * **Express.js** : Framework web pour Node.js.
-* **TypeScript** : Sur-ensemble de JavaScript ajoutant un typage statique.
+* **TypeScript** : utilisé pour son typage statique.
 * **SQLite3** : Base de données SQL légère et basée sur fichiers.
 * **ts-node** : Permet d'exécuter directement du TypeScript.
 * **nodemon** : Surveille les modifications des fichiers et redémarre le serveur.
